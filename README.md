@@ -24,7 +24,11 @@ Using this medical dataset,related to cardiovascular disease. Each row represent
     ca: number of major vessels (0-3) colored by fluoroscopy
     thal: a blood disorder called thalassemia (3 for normal, 6 for fixed defect, 7 for reversable defect)
     target: presence of heart disease (1 for yes, 0 for no)
-#Images
+# Images
+
+
 ![Screenshot 2023-04-09 at 8 13 29 PM](https://user-images.githubusercontent.com/98197211/230803816-93e2d305-189b-4918-b1af-b920ffeae1df.png)
+
 ![Screenshot 2023-04-09 at 8 13 43 PM](https://user-images.githubusercontent.com/98197211/230803828-8aa62be1-627a-4f73-9943-227300354a7b.png)
+
 ![Screenshot 2023-04-09 at 8 13 58 PM](https://user-images.githubusercontent.com/98197211/230803830-c61f9aad-b14d-4aba-8742-d2847ec4a503.png)
